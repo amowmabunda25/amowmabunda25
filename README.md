@@ -1,5 +1,5 @@
 
-Franchise Chicken - README
+Crispy Chicken - README
 Table of Contents
 Introduction
 Design Choices
